@@ -14,6 +14,14 @@ I know the following programming languages: C#, PHP, Kotlin...
 
 I am also interested in creating games on Unreal Engine 4 and modeling (I plan to create my own games in the future).
 
+------------------------
+Я интересуюсь программированием, сборкой и ремонтом ПК. 
+
+У меня есть опыт работы в..Access, HTML+CSS+Bootstrap, MS Office, MS SQL Server, Visual Studio (and VS Code).., 
+я знаю следующие языки программирования: C#, PHP, Kotlin...
+
+Также я интересуюсь созданием игр на Unreal Engine 4 и моделированием (в будущем планирую создавать свои игры).
+
 
 <!--
 **Bulatik-707/Bulatik-707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
