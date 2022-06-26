@@ -38,7 +38,14 @@ I am also interested in creating games on Unreal Engine 4 and modeling (I plan t
     Создавать игровые персонажи, объекты и компоненты.
 
 
-
+====================
+2017-2018 - HTML+CSS, Bootstrap 4.
+2017-2020 - C#, .NET, Entity Framework.
+2017-2020 - Access, SQL Server, 1C.
+2018 - Kotlin.
+2018 - Corel DRAW, Photoshop.
+2020 - 3DMAX.
+2020-2021 - PHP, Laravel.
 
 <!--
 **Bulatik-707/Bulatik-707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
