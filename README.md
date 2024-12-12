@@ -20,8 +20,8 @@ I am also interested in creating games on Unreal Engine 4 and modeling (I plan t
 ------------------------
 Я интересуюсь программированием, сборкой и ремонтом ПК. 
 
-У меня есть опыт работы в..Access, HTML+CSS+Bootstrap, MS Office, MS SQL Server, Visual Studio (and VS Code).., 
-я знаю следующие языки программирования: C#, PHP, Kotlin...
+У меня есть опыт работы в..Access, HTML+CSS+Bootstrap, Laravel, 1C, MS Office, MS SQL Server, Visual Studio (and VS Code).., 
+я знаю следующие языки программирования: C#, PHP, 1C, Kotlin, VBA, C++...
 
 Также я интересуюсь созданием игр на Unreal Engine 4 и моделированием (в будущем планирую создавать свои игры).
 = Разработчик компьютерных игр:
